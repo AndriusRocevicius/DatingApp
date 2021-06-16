@@ -33,7 +33,7 @@ namespace Api.Controllers
             return await _context.Users.FindAsync(id);
 
         }
-        //nu it
+        
 
 
     }
